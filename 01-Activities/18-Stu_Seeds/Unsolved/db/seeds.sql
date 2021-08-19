@@ -5,3 +5,4 @@ VALUES (1000, "spinach", "produce"),
        (1003,"ice cream", "frozen"),
        (1004, "potato chips", "snacks");
        
+SELECT * FROM products;
